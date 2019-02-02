@@ -1,0 +1,34 @@
+{
+    "name": "react-minis",
+    "version": "1.0.0",
+    "description": "A library of mini charts in React",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/samirdamle/react-minis.git"
+    },
+    "keywords": [
+        "react",
+        "mini",
+        "charts",
+        "graphs",
+        "bar",
+        "pie",
+        "scatter",
+        "line",
+        "area"
+    ],
+    "author": "Samir Damle",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/samirdamle/react-minis/issues"
+    },
+    "homepage": "https://github.com/samirdamle/react-minis#readme",
+    "dependencies": {
+        "react": "^16.7.0",
+        "react-tippy": "^1.2.3"
+    }
+}
